@@ -8,7 +8,7 @@ Projeto Galleria - Galeria de fotos em SASS
 
 <p>A Galleria foi criada com o objetivo de fornecer uma experiência visualmente atraente para os usuários explorarem uma variedade de categorias de fotos. Meu objetivo era criar uma interface limpa e intuitiva que permitisse aos usuários navegar facilmente pelas diferentes coleções de fotos.</p>
 
-<a href="https://galerrysass.netlify.app/" target_blank><strong>Demonstração ao vivo</strong></a>
+<a href="https://galerrysass.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
 ![preview](https://github.com/daniel-portela/Galeria-SASS/assets/110783805/03453f82-d574-49e5-9626-1ca7fe3f9ece)
