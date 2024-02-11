@@ -11,9 +11,9 @@ Projeto Galleria - Galeria de fotos em SASS
 <a href="https://galerrysass.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/Galeria-SASS/assets/110783805/03453f82-d574-49e5-9626-1ca7fe3f9ece)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/Galeria-SASS/assets/110783805/eca2d588-2a16-46fb-b1a0-86bc98d04c63)
 
 Tecnologias utilizadas:
 
